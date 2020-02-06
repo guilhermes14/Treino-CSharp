@@ -1,0 +1,10 @@
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\bin\Debug\netcoreapp3.0\FormataNumero.exe
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\bin\Debug\netcoreapp3.0\FormataNumero.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\bin\Debug\netcoreapp3.0\FormataNumero.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\bin\Debug\netcoreapp3.0\FormataNumero.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\bin\Debug\netcoreapp3.0\FormataNumero.dll
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\bin\Debug\netcoreapp3.0\FormataNumero.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\obj\Debug\netcoreapp3.0\FormataNumero.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\obj\Debug\netcoreapp3.0\FormataNumero.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\obj\Debug\netcoreapp3.0\FormataNumero.dll
+C:\Users\guilherme.carvalho\Desktop\C#\FormataNumero\obj\Debug\netcoreapp3.0\FormataNumero.pdb
