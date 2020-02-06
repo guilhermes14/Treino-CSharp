@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\bin\Debug\netcoreapp3.0\Pega_nome.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\bin\Debug\netcoreapp3.0\Pega_nome.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\bin\Debug\netcoreapp3.0\Pega_nome.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\bin\Debug\netcoreapp3.0\Pega_nome.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\bin\Debug\netcoreapp3.0\Pega_nome.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\bin\Debug\netcoreapp3.0\Pega_nome.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\obj\Debug\netcoreapp3.0\Pega_nome.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\obj\Debug\netcoreapp3.0\Pega_nome.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\obj\Debug\netcoreapp3.0\Pega_nome.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\obj\Debug\netcoreapp3.0\Pega_nome.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Pega_nome\obj\Debug\netcoreapp3.0\Pega_nome.pdb
