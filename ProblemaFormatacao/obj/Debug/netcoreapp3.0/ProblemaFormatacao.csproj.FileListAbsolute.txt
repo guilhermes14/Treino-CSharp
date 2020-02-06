@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\bin\Debug\netcoreapp3.0\ProblemaFormatacao.exe
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\bin\Debug\netcoreapp3.0\ProblemaFormatacao.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\bin\Debug\netcoreapp3.0\ProblemaFormatacao.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\bin\Debug\netcoreapp3.0\ProblemaFormatacao.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\bin\Debug\netcoreapp3.0\ProblemaFormatacao.dll
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\bin\Debug\netcoreapp3.0\ProblemaFormatacao.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\obj\Debug\netcoreapp3.0\ProblemaFormatacao.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\obj\Debug\netcoreapp3.0\ProblemaFormatacao.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\obj\Debug\netcoreapp3.0\ProblemaFormatacao.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\obj\Debug\netcoreapp3.0\ProblemaFormatacao.dll
+C:\Users\guilherme.carvalho\Desktop\C#\ProblemaFormatacao\obj\Debug\netcoreapp3.0\ProblemaFormatacao.pdb
