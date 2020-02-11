@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\bin\Debug\netcoreapp3.0\Jogada_De_Dado.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\bin\Debug\netcoreapp3.0\Jogada_De_Dado.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\bin\Debug\netcoreapp3.0\Jogada_De_Dado.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\bin\Debug\netcoreapp3.0\Jogada_De_Dado.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\bin\Debug\netcoreapp3.0\Jogada_De_Dado.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\bin\Debug\netcoreapp3.0\Jogada_De_Dado.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\obj\Debug\netcoreapp3.0\Jogada_De_Dado.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\obj\Debug\netcoreapp3.0\Jogada_De_Dado.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\obj\Debug\netcoreapp3.0\Jogada_De_Dado.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\obj\Debug\netcoreapp3.0\Jogada_De_Dado.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Jogada_De_Dado\obj\Debug\netcoreapp3.0\Jogada_De_Dado.pdb
