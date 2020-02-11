@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\bin\Debug\netcoreapp3.0\Tempo_De_Vida.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\bin\Debug\netcoreapp3.0\Tempo_De_Vida.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\bin\Debug\netcoreapp3.0\Tempo_De_Vida.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\bin\Debug\netcoreapp3.0\Tempo_De_Vida.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\bin\Debug\netcoreapp3.0\Tempo_De_Vida.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\bin\Debug\netcoreapp3.0\Tempo_De_Vida.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\obj\Debug\netcoreapp3.0\Tempo_De_Vida.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\obj\Debug\netcoreapp3.0\Tempo_De_Vida.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\obj\Debug\netcoreapp3.0\Tempo_De_Vida.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\obj\Debug\netcoreapp3.0\Tempo_De_Vida.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Tempo_De_Vida\obj\Debug\netcoreapp3.0\Tempo_De_Vida.pdb
