@@ -14,6 +14,7 @@ namespace Tempo_De_Vida
             var DiasVividos = dataAtual - data;
 
             Console.WriteLine($"Você viveu {DiasVividos.Days} dias.");
+            Console.WriteLine($"Você nasceu em uma {data:ddd}");
             //Tipos de datas possíveis
             Console.WriteLine($"A data atual é {dataAtual:d}");
             Console.WriteLine($"A data atual é {dataAtual:D}");
