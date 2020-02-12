@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\bin\Debug\netcoreapp3.0\Subtração.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\bin\Debug\netcoreapp3.0\Subtração.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\bin\Debug\netcoreapp3.0\Subtração.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\bin\Debug\netcoreapp3.0\Subtração.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\bin\Debug\netcoreapp3.0\Subtração.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\bin\Debug\netcoreapp3.0\Subtração.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\obj\Debug\netcoreapp3.0\Subtração.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\obj\Debug\netcoreapp3.0\Subtração.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\obj\Debug\netcoreapp3.0\Subtração.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\obj\Debug\netcoreapp3.0\Subtração.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Subtração\obj\Debug\netcoreapp3.0\Subtração.pdb

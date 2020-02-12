@@ -1,0 +1,10 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\bin\Debug\netcoreapp3.0\Adição.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\bin\Debug\netcoreapp3.0\Adição.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\bin\Debug\netcoreapp3.0\Adição.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\bin\Debug\netcoreapp3.0\Adição.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\bin\Debug\netcoreapp3.0\Adição.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\bin\Debug\netcoreapp3.0\Adição.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\obj\Debug\netcoreapp3.0\Adição.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\obj\Debug\netcoreapp3.0\Adição.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\obj\Debug\netcoreapp3.0\Adição.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Adição\obj\Debug\netcoreapp3.0\Adição.pdb

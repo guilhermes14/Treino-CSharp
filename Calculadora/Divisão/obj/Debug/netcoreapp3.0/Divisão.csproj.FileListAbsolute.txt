@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\bin\Debug\netcoreapp3.0\Divisão.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\bin\Debug\netcoreapp3.0\Divisão.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\bin\Debug\netcoreapp3.0\Divisão.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\bin\Debug\netcoreapp3.0\Divisão.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\bin\Debug\netcoreapp3.0\Divisão.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\bin\Debug\netcoreapp3.0\Divisão.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\obj\Debug\netcoreapp3.0\Divisão.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\obj\Debug\netcoreapp3.0\Divisão.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\obj\Debug\netcoreapp3.0\Divisão.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\obj\Debug\netcoreapp3.0\Divisão.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Divisão\obj\Debug\netcoreapp3.0\Divisão.pdb

@@ -1,0 +1,11 @@
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\bin\Debug\netcoreapp3.0\Multiplicação.exe
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\bin\Debug\netcoreapp3.0\Multiplicação.deps.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\bin\Debug\netcoreapp3.0\Multiplicação.runtimeconfig.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\bin\Debug\netcoreapp3.0\Multiplicação.runtimeconfig.dev.json
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\bin\Debug\netcoreapp3.0\Multiplicação.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\bin\Debug\netcoreapp3.0\Multiplicação.pdb
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\obj\Debug\netcoreapp3.0\Multiplicação.csprojAssemblyReference.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\obj\Debug\netcoreapp3.0\Multiplicação.AssemblyInfoInputs.cache
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\obj\Debug\netcoreapp3.0\Multiplicação.AssemblyInfo.cs
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\obj\Debug\netcoreapp3.0\Multiplicação.dll
+C:\Users\guilherme.carvalho\Desktop\C#\Calculadora\Multiplicação\obj\Debug\netcoreapp3.0\Multiplicação.pdb
